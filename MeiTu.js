@@ -1,7 +1,6 @@
 /*
- * @name: Meitu XiuXiu Premium Unlock
- * @author: Nguyễn Ngọc Anh Tú (z3rokaze)
- * @homepage: https://github.com/z3rokaze/NguyenNgocAnhTu
+ * @name: Meitu XiuXiu Premium Unlock log0404
+ * @author: log0404
  * @date: 2026-05-09
  */
 
