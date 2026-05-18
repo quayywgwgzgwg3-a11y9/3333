@@ -5,4 +5,4 @@ enable = true
 hostname = h5.xiuxiu.meitu.com, api.xiuxiu.meitu.com
 
 [Script]
-meitu = type=http-response, pattern=^https?:\/\/(h5|api)\.xiuxiu\.meitu\.com\/v\d\/(h\d\/vip|vip|user)\/, script-path=https://raw.githubusercontent.com/ekaznyra/NguyenNgocAnhTu/main/Module/js/MeiTuXiuXiu.js, requires-body=true
+meitu = type=http-response, pattern=^https?:\/\/(h5|api)\.xiuxiu\.meitu\.com\/v\d\/(h\d\/vip|vip|user)\/, script-path=https://https://raw.githubusercontent.com/quayywgwgzgwg3-a11y9/3333/refs/heads/main/MeiTu.js, requires-body=true
